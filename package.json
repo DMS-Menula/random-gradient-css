@@ -1,0 +1,20 @@
+{
+  "name": "random-gradient-css",
+  "version": "1.0.0",
+  "description": "Generate beautiful random CSS gradients (linear & radial) with presets, HSL, and mixed modes",
+  "main": "index.js",
+  "bin": {
+    "random-gradient-css": "./cli.js"
+  },
+  "keywords": [
+    "gradient",
+    "css gradient",
+    "random gradient",
+    "ui design",
+    "background",
+    "color generator",
+    "gradient generator"
+  ],
+  "author": "Menula",
+  "license": "MIT"
+}
